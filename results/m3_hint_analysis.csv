@@ -1,0 +1,4 @@
+qtype,questions,hint_agreement_pct,M1_errors_corrected,new_errors_introduced
+DS4,80,100.0,0,0
+DS6,80,98.75,0,0
+LD3,80,0.0,3,64

@@ -1,0 +1,1201 @@
+frame,burn,block,split
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00001.JPG,shoetank,shoetank_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00010.JPG,shoetank,shoetank_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00019.JPG,shoetank,shoetank_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00028.JPG,shoetank,shoetank_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00036.JPG,shoetank,shoetank_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00045.JPG,shoetank,shoetank_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00054.JPG,shoetank,shoetank_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00063.JPG,shoetank,shoetank_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00072.JPG,shoetank,shoetank_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00081.JPG,shoetank,shoetank_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00090.JPG,shoetank,shoetank_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00099.JPG,shoetank,shoetank_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00107.JPG,shoetank,shoetank_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00116.JPG,shoetank,shoetank_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00125.JPG,shoetank,shoetank_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00134.JPG,shoetank,shoetank_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00143.JPG,shoetank,shoetank_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00152.JPG,shoetank,shoetank_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00161.JPG,shoetank,shoetank_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00170.JPG,shoetank,shoetank_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00178.JPG,shoetank,shoetank_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00187.JPG,shoetank,shoetank_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00196.JPG,shoetank,shoetank_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00205.JPG,shoetank,shoetank_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00214.JPG,shoetank,shoetank_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00223.JPG,shoetank,shoetank_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00232.JPG,shoetank,shoetank_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00240.JPG,shoetank,shoetank_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00249.JPG,shoetank,shoetank_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00258.JPG,shoetank,shoetank_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00267.JPG,shoetank,shoetank_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00276.JPG,shoetank,shoetank_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00285.JPG,shoetank,shoetank_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00294.JPG,shoetank,shoetank_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00303.JPG,shoetank,shoetank_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00311.JPG,shoetank,shoetank_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00320.JPG,shoetank,shoetank_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00329.JPG,shoetank,shoetank_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00338.JPG,shoetank,shoetank_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00347.JPG,shoetank,shoetank_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00356.JPG,shoetank,shoetank_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00365.JPG,shoetank,shoetank_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00374.JPG,shoetank,shoetank_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00382.JPG,shoetank,shoetank_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00391.JPG,shoetank,shoetank_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00400.JPG,shoetank,shoetank_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00409.JPG,shoetank,shoetank_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00418.JPG,shoetank,shoetank_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00427.JPG,shoetank,shoetank_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00436.JPG,shoetank,shoetank_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00444.JPG,shoetank,shoetank_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00453.JPG,shoetank,shoetank_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00462.JPG,shoetank,shoetank_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00471.JPG,shoetank,shoetank_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00480.JPG,shoetank,shoetank_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00489.JPG,shoetank,shoetank_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00498.JPG,shoetank,shoetank_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00507.JPG,shoetank,shoetank_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00515.JPG,shoetank,shoetank_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00524.JPG,shoetank,shoetank_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00533.JPG,shoetank,shoetank_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00542.JPG,shoetank,shoetank_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00551.JPG,shoetank,shoetank_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00560.JPG,shoetank,shoetank_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00569.JPG,shoetank,shoetank_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00578.JPG,shoetank,shoetank_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00586.JPG,shoetank,shoetank_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00595.JPG,shoetank,shoetank_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00604.JPG,shoetank,shoetank_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00613.JPG,shoetank,shoetank_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00622.JPG,shoetank,shoetank_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00631.JPG,shoetank,shoetank_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00640.JPG,shoetank,shoetank_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00648.JPG,shoetank,shoetank_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00657.JPG,shoetank,shoetank_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00666.JPG,shoetank,shoetank_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00675.JPG,shoetank,shoetank_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00684.JPG,shoetank,shoetank_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00693.JPG,shoetank,shoetank_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00702.JPG,shoetank,shoetank_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00711.JPG,shoetank,shoetank_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00719.JPG,shoetank,shoetank_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00728.JPG,shoetank,shoetank_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00737.JPG,shoetank,shoetank_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00746.JPG,shoetank,shoetank_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00755.JPG,shoetank,shoetank_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00764.JPG,shoetank,shoetank_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00773.JPG,shoetank,shoetank_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00782.JPG,shoetank,shoetank_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00790.JPG,shoetank,shoetank_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00799.JPG,shoetank,shoetank_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00808.JPG,shoetank,shoetank_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00817.JPG,shoetank,shoetank_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00826.JPG,shoetank,shoetank_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00835.JPG,shoetank,shoetank_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00844.JPG,shoetank,shoetank_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00852.JPG,shoetank,shoetank_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00861.JPG,shoetank,shoetank_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00870.JPG,shoetank,shoetank_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00879.JPG,shoetank,shoetank_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00888.JPG,shoetank,shoetank_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00897.JPG,shoetank,shoetank_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00906.JPG,shoetank,shoetank_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00915.JPG,shoetank,shoetank_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00923.JPG,shoetank,shoetank_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00932.JPG,shoetank,shoetank_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00941.JPG,shoetank,shoetank_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00950.JPG,shoetank,shoetank_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00959.JPG,shoetank,shoetank_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00968.JPG,shoetank,shoetank_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00977.JPG,shoetank,shoetank_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00986.JPG,shoetank,shoetank_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/00994.JPG,shoetank,shoetank_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01003.JPG,shoetank,shoetank_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01012.JPG,shoetank,shoetank_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01021.JPG,shoetank,shoetank_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01030.JPG,shoetank,shoetank_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01039.JPG,shoetank,shoetank_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01048.JPG,shoetank,shoetank_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01056.JPG,shoetank,shoetank_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01065.JPG,shoetank,shoetank_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01074.JPG,shoetank,shoetank_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01083.JPG,shoetank,shoetank_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01092.JPG,shoetank,shoetank_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01101.JPG,shoetank,shoetank_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01110.JPG,shoetank,shoetank_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01119.JPG,shoetank,shoetank_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01127.JPG,shoetank,shoetank_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01136.JPG,shoetank,shoetank_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01145.JPG,shoetank,shoetank_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01154.JPG,shoetank,shoetank_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01163.JPG,shoetank,shoetank_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01172.JPG,shoetank,shoetank_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01181.JPG,shoetank,shoetank_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01190.JPG,shoetank,shoetank_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01198.JPG,shoetank,shoetank_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01207.JPG,shoetank,shoetank_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01216.JPG,shoetank,shoetank_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01225.JPG,shoetank,shoetank_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01234.JPG,shoetank,shoetank_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01243.JPG,shoetank,shoetank_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01252.JPG,shoetank,shoetank_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01260.JPG,shoetank,shoetank_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01269.JPG,shoetank,shoetank_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/Fire/RGB/Corrected FOV/01278.JPG,shoetank,shoetank_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00002.JPG,shoetank,shoetank_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00011.JPG,shoetank,shoetank_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00020.JPG,shoetank,shoetank_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00029.JPG,shoetank,shoetank_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00038.JPG,shoetank,shoetank_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00046.JPG,shoetank,shoetank_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00055.JPG,shoetank,shoetank_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00064.JPG,shoetank,shoetank_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00073.JPG,shoetank,shoetank_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00082.JPG,shoetank,shoetank_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00091.JPG,shoetank,shoetank_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00100.JPG,shoetank,shoetank_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00109.JPG,shoetank,shoetank_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00117.JPG,shoetank,shoetank_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00126.JPG,shoetank,shoetank_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00135.JPG,shoetank,shoetank_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00144.JPG,shoetank,shoetank_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00153.JPG,shoetank,shoetank_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00162.JPG,shoetank,shoetank_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00171.JPG,shoetank,shoetank_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00179.JPG,shoetank,shoetank_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00188.JPG,shoetank,shoetank_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00197.JPG,shoetank,shoetank_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00206.JPG,shoetank,shoetank_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00215.JPG,shoetank,shoetank_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00224.JPG,shoetank,shoetank_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00233.JPG,shoetank,shoetank_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00242.JPG,shoetank,shoetank_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00250.JPG,shoetank,shoetank_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00259.JPG,shoetank,shoetank_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00268.JPG,shoetank,shoetank_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00277.JPG,shoetank,shoetank_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00286.JPG,shoetank,shoetank_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00295.JPG,shoetank,shoetank_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00304.JPG,shoetank,shoetank_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00313.JPG,shoetank,shoetank_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00321.JPG,shoetank,shoetank_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00330.JPG,shoetank,shoetank_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00339.JPG,shoetank,shoetank_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00348.JPG,shoetank,shoetank_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00357.JPG,shoetank,shoetank_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00366.JPG,shoetank,shoetank_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00375.JPG,shoetank,shoetank_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00383.JPG,shoetank,shoetank_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00392.JPG,shoetank,shoetank_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00401.JPG,shoetank,shoetank_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00410.JPG,shoetank,shoetank_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00419.JPG,shoetank,shoetank_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00428.JPG,shoetank,shoetank_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00437.JPG,shoetank,shoetank_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00446.JPG,shoetank,shoetank_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00454.JPG,shoetank,shoetank_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00463.JPG,shoetank,shoetank_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00472.JPG,shoetank,shoetank_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00481.JPG,shoetank,shoetank_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00490.JPG,shoetank,shoetank_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00499.JPG,shoetank,shoetank_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00508.JPG,shoetank,shoetank_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00517.JPG,shoetank,shoetank_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00525.JPG,shoetank,shoetank_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00534.JPG,shoetank,shoetank_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00543.JPG,shoetank,shoetank_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00552.JPG,shoetank,shoetank_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00561.JPG,shoetank,shoetank_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00570.JPG,shoetank,shoetank_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00579.JPG,shoetank,shoetank_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00588.JPG,shoetank,shoetank_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00596.JPG,shoetank,shoetank_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00605.JPG,shoetank,shoetank_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00614.JPG,shoetank,shoetank_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00623.JPG,shoetank,shoetank_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00632.JPG,shoetank,shoetank_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00641.JPG,shoetank,shoetank_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00650.JPG,shoetank,shoetank_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00658.JPG,shoetank,shoetank_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00667.JPG,shoetank,shoetank_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00676.JPG,shoetank,shoetank_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00685.JPG,shoetank,shoetank_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00694.JPG,shoetank,shoetank_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00703.JPG,shoetank,shoetank_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00712.JPG,shoetank,shoetank_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00721.JPG,shoetank,shoetank_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00729.JPG,shoetank,shoetank_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00738.JPG,shoetank,shoetank_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00747.JPG,shoetank,shoetank_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00756.JPG,shoetank,shoetank_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00765.JPG,shoetank,shoetank_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00774.JPG,shoetank,shoetank_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00783.JPG,shoetank,shoetank_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00792.JPG,shoetank,shoetank_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00800.JPG,shoetank,shoetank_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00809.JPG,shoetank,shoetank_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00818.JPG,shoetank,shoetank_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00827.JPG,shoetank,shoetank_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00836.JPG,shoetank,shoetank_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00845.JPG,shoetank,shoetank_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00854.JPG,shoetank,shoetank_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00862.JPG,shoetank,shoetank_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00871.JPG,shoetank,shoetank_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00880.JPG,shoetank,shoetank_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00889.JPG,shoetank,shoetank_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00898.JPG,shoetank,shoetank_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00907.JPG,shoetank,shoetank_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00916.JPG,shoetank,shoetank_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00925.JPG,shoetank,shoetank_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00933.JPG,shoetank,shoetank_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00942.JPG,shoetank,shoetank_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00951.JPG,shoetank,shoetank_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00960.JPG,shoetank,shoetank_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00969.JPG,shoetank,shoetank_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00978.JPG,shoetank,shoetank_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00987.JPG,shoetank,shoetank_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/00996.JPG,shoetank,shoetank_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01004.JPG,shoetank,shoetank_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01013.JPG,shoetank,shoetank_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01022.JPG,shoetank,shoetank_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01031.JPG,shoetank,shoetank_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01040.JPG,shoetank,shoetank_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01049.JPG,shoetank,shoetank_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01058.JPG,shoetank,shoetank_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01066.JPG,shoetank,shoetank_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01075.JPG,shoetank,shoetank_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01084.JPG,shoetank,shoetank_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01093.JPG,shoetank,shoetank_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01102.JPG,shoetank,shoetank_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01111.JPG,shoetank,shoetank_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01120.JPG,shoetank,shoetank_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01129.JPG,shoetank,shoetank_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01137.JPG,shoetank,shoetank_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01146.JPG,shoetank,shoetank_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01155.JPG,shoetank,shoetank_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01164.JPG,shoetank,shoetank_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01173.JPG,shoetank,shoetank_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01182.JPG,shoetank,shoetank_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01191.JPG,shoetank,shoetank_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01200.JPG,shoetank,shoetank_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01208.JPG,shoetank,shoetank_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01217.JPG,shoetank,shoetank_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01226.JPG,shoetank,shoetank_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01235.JPG,shoetank,shoetank_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01244.JPG,shoetank,shoetank_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01253.JPG,shoetank,shoetank_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01262.JPG,shoetank,shoetank_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01270.JPG,shoetank,shoetank_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01279.JPG,shoetank,shoetank_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01288.JPG,shoetank,shoetank_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01297.JPG,shoetank,shoetank_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01306.JPG,shoetank,shoetank_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01315.JPG,shoetank,shoetank_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01324.JPG,shoetank,shoetank_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01333.JPG,shoetank,shoetank_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01341.JPG,shoetank,shoetank_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01350.JPG,shoetank,shoetank_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01359.JPG,shoetank,shoetank_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01368.JPG,shoetank,shoetank_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01377.JPG,shoetank,shoetank_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01386.JPG,shoetank,shoetank_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01395.JPG,shoetank,shoetank_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01404.JPG,shoetank,shoetank_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01412.JPG,shoetank,shoetank_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01421.JPG,shoetank,shoetank_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01430.JPG,shoetank,shoetank_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01439.JPG,shoetank,shoetank_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01448.JPG,shoetank,shoetank_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01457.JPG,shoetank,shoetank_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01466.JPG,shoetank,shoetank_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01474.JPG,shoetank,shoetank_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01483.JPG,shoetank,shoetank_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01492.JPG,shoetank,shoetank_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01501.JPG,shoetank,shoetank_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01510.JPG,shoetank,shoetank_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01519.JPG,shoetank,shoetank_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01528.JPG,shoetank,shoetank_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01537.JPG,shoetank,shoetank_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01545.JPG,shoetank,shoetank_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01554.JPG,shoetank,shoetank_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01563.JPG,shoetank,shoetank_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01572.JPG,shoetank,shoetank_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01581.JPG,shoetank,shoetank_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01590.JPG,shoetank,shoetank_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01599.JPG,shoetank,shoetank_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01608.JPG,shoetank,shoetank_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01616.JPG,shoetank,shoetank_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01625.JPG,shoetank,shoetank_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01634.JPG,shoetank,shoetank_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01643.JPG,shoetank,shoetank_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01652.JPG,shoetank,shoetank_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01661.JPG,shoetank,shoetank_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01670.JPG,shoetank,shoetank_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01678.JPG,shoetank,shoetank_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01687.JPG,shoetank,shoetank_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01696.JPG,shoetank,shoetank_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01705.JPG,shoetank,shoetank_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01714.JPG,shoetank,shoetank_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01723.JPG,shoetank,shoetank_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01732.JPG,shoetank,shoetank_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01741.JPG,shoetank,shoetank_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01749.JPG,shoetank,shoetank_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01758.JPG,shoetank,shoetank_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01767.JPG,shoetank,shoetank_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01776.JPG,shoetank,shoetank_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01785.JPG,shoetank,shoetank_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01794.JPG,shoetank,shoetank_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01803.JPG,shoetank,shoetank_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01812.JPG,shoetank,shoetank_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01820.JPG,shoetank,shoetank_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01829.JPG,shoetank,shoetank_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01838.JPG,shoetank,shoetank_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01847.JPG,shoetank,shoetank_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01856.JPG,shoetank,shoetank_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01865.JPG,shoetank,shoetank_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01874.JPG,shoetank,shoetank_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01882.JPG,shoetank,shoetank_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01891.JPG,shoetank,shoetank_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01900.JPG,shoetank,shoetank_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01909.JPG,shoetank,shoetank_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01918.JPG,shoetank,shoetank_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01927.JPG,shoetank,shoetank_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01936.JPG,shoetank,shoetank_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01945.JPG,shoetank,shoetank_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01953.JPG,shoetank,shoetank_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01962.JPG,shoetank,shoetank_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01971.JPG,shoetank,shoetank_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01980.JPG,shoetank,shoetank_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01989.JPG,shoetank,shoetank_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/01998.JPG,shoetank,shoetank_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02007.JPG,shoetank,shoetank_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02016.JPG,shoetank,shoetank_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02024.JPG,shoetank,shoetank_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02033.JPG,shoetank,shoetank_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02042.JPG,shoetank,shoetank_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02051.JPG,shoetank,shoetank_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02060.JPG,shoetank,shoetank_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02069.JPG,shoetank,shoetank_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02078.JPG,shoetank,shoetank_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02086.JPG,shoetank,shoetank_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02095.JPG,shoetank,shoetank_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02104.JPG,shoetank,shoetank_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02113.JPG,shoetank,shoetank_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02122.JPG,shoetank,shoetank_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02131.JPG,shoetank,shoetank_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02140.JPG,shoetank,shoetank_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02149.JPG,shoetank,shoetank_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02157.JPG,shoetank,shoetank_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02166.JPG,shoetank,shoetank_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02175.JPG,shoetank,shoetank_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02184.JPG,shoetank,shoetank_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02193.JPG,shoetank,shoetank_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02202.JPG,shoetank,shoetank_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02211.JPG,shoetank,shoetank_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02220.JPG,shoetank,shoetank_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02228.JPG,shoetank,shoetank_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02237.JPG,shoetank,shoetank_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02246.JPG,shoetank,shoetank_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Shoetank/Images/No Fire/RGB/Corrected FOV/02255.JPG,shoetank,shoetank_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00001.JPG,sycan_marsh,sycan_marsh_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00003.JPG,sycan_marsh,sycan_marsh_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00005.JPG,sycan_marsh,sycan_marsh_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00007.JPG,sycan_marsh,sycan_marsh_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00008.JPG,sycan_marsh,sycan_marsh_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00010.JPG,sycan_marsh,sycan_marsh_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00012.JPG,sycan_marsh,sycan_marsh_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00014.JPG,sycan_marsh,sycan_marsh_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00016.JPG,sycan_marsh,sycan_marsh_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00018.JPG,sycan_marsh,sycan_marsh_0,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00019.JPG,sycan_marsh,sycan_marsh_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00021.JPG,sycan_marsh,sycan_marsh_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00023.JPG,sycan_marsh,sycan_marsh_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00025.JPG,sycan_marsh,sycan_marsh_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00027.JPG,sycan_marsh,sycan_marsh_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00029.JPG,sycan_marsh,sycan_marsh_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00031.JPG,sycan_marsh,sycan_marsh_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00032.JPG,sycan_marsh,sycan_marsh_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00034.JPG,sycan_marsh,sycan_marsh_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00036.JPG,sycan_marsh,sycan_marsh_1,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00038.JPG,sycan_marsh,sycan_marsh_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00040.JPG,sycan_marsh,sycan_marsh_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00042.JPG,sycan_marsh,sycan_marsh_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00043.JPG,sycan_marsh,sycan_marsh_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00045.JPG,sycan_marsh,sycan_marsh_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00047.JPG,sycan_marsh,sycan_marsh_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00049.JPG,sycan_marsh,sycan_marsh_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00051.JPG,sycan_marsh,sycan_marsh_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00053.JPG,sycan_marsh,sycan_marsh_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00055.JPG,sycan_marsh,sycan_marsh_2,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00056.JPG,sycan_marsh,sycan_marsh_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00058.JPG,sycan_marsh,sycan_marsh_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00060.JPG,sycan_marsh,sycan_marsh_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00062.JPG,sycan_marsh,sycan_marsh_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00064.JPG,sycan_marsh,sycan_marsh_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00066.JPG,sycan_marsh,sycan_marsh_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00067.JPG,sycan_marsh,sycan_marsh_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00069.JPG,sycan_marsh,sycan_marsh_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00071.JPG,sycan_marsh,sycan_marsh_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00073.JPG,sycan_marsh,sycan_marsh_3,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00075.JPG,sycan_marsh,sycan_marsh_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00077.JPG,sycan_marsh,sycan_marsh_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00079.JPG,sycan_marsh,sycan_marsh_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00080.JPG,sycan_marsh,sycan_marsh_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00082.JPG,sycan_marsh,sycan_marsh_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00084.JPG,sycan_marsh,sycan_marsh_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00086.JPG,sycan_marsh,sycan_marsh_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00088.JPG,sycan_marsh,sycan_marsh_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00090.JPG,sycan_marsh,sycan_marsh_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00092.JPG,sycan_marsh,sycan_marsh_4,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00093.JPG,sycan_marsh,sycan_marsh_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00095.JPG,sycan_marsh,sycan_marsh_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00097.JPG,sycan_marsh,sycan_marsh_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00099.JPG,sycan_marsh,sycan_marsh_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00101.JPG,sycan_marsh,sycan_marsh_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00103.JPG,sycan_marsh,sycan_marsh_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00104.JPG,sycan_marsh,sycan_marsh_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00106.JPG,sycan_marsh,sycan_marsh_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00108.JPG,sycan_marsh,sycan_marsh_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00110.JPG,sycan_marsh,sycan_marsh_5,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00112.JPG,sycan_marsh,sycan_marsh_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00114.JPG,sycan_marsh,sycan_marsh_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00116.JPG,sycan_marsh,sycan_marsh_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00117.JPG,sycan_marsh,sycan_marsh_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00119.JPG,sycan_marsh,sycan_marsh_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00121.JPG,sycan_marsh,sycan_marsh_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00123.JPG,sycan_marsh,sycan_marsh_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00125.JPG,sycan_marsh,sycan_marsh_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00127.JPG,sycan_marsh,sycan_marsh_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00128.JPG,sycan_marsh,sycan_marsh_6,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00130.JPG,sycan_marsh,sycan_marsh_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00132.JPG,sycan_marsh,sycan_marsh_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00134.JPG,sycan_marsh,sycan_marsh_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00136.JPG,sycan_marsh,sycan_marsh_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00138.JPG,sycan_marsh,sycan_marsh_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00140.JPG,sycan_marsh,sycan_marsh_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00141.JPG,sycan_marsh,sycan_marsh_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00143.JPG,sycan_marsh,sycan_marsh_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00145.JPG,sycan_marsh,sycan_marsh_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00147.JPG,sycan_marsh,sycan_marsh_7,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00149.JPG,sycan_marsh,sycan_marsh_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00151.JPG,sycan_marsh,sycan_marsh_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00152.JPG,sycan_marsh,sycan_marsh_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00154.JPG,sycan_marsh,sycan_marsh_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00156.JPG,sycan_marsh,sycan_marsh_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00158.JPG,sycan_marsh,sycan_marsh_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00160.JPG,sycan_marsh,sycan_marsh_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00162.JPG,sycan_marsh,sycan_marsh_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00164.JPG,sycan_marsh,sycan_marsh_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00165.JPG,sycan_marsh,sycan_marsh_8,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00167.JPG,sycan_marsh,sycan_marsh_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00169.JPG,sycan_marsh,sycan_marsh_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00171.JPG,sycan_marsh,sycan_marsh_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00173.JPG,sycan_marsh,sycan_marsh_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00175.JPG,sycan_marsh,sycan_marsh_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00176.JPG,sycan_marsh,sycan_marsh_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00178.JPG,sycan_marsh,sycan_marsh_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00180.JPG,sycan_marsh,sycan_marsh_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00182.JPG,sycan_marsh,sycan_marsh_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00184.JPG,sycan_marsh,sycan_marsh_9,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00186.JPG,sycan_marsh,sycan_marsh_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00188.JPG,sycan_marsh,sycan_marsh_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00189.JPG,sycan_marsh,sycan_marsh_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00191.JPG,sycan_marsh,sycan_marsh_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00193.JPG,sycan_marsh,sycan_marsh_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00195.JPG,sycan_marsh,sycan_marsh_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00197.JPG,sycan_marsh,sycan_marsh_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00199.JPG,sycan_marsh,sycan_marsh_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00200.JPG,sycan_marsh,sycan_marsh_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00202.JPG,sycan_marsh,sycan_marsh_10,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00204.JPG,sycan_marsh,sycan_marsh_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00206.JPG,sycan_marsh,sycan_marsh_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00208.JPG,sycan_marsh,sycan_marsh_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00210.JPG,sycan_marsh,sycan_marsh_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00212.JPG,sycan_marsh,sycan_marsh_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00213.JPG,sycan_marsh,sycan_marsh_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00215.JPG,sycan_marsh,sycan_marsh_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00217.JPG,sycan_marsh,sycan_marsh_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00219.JPG,sycan_marsh,sycan_marsh_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00221.JPG,sycan_marsh,sycan_marsh_11,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00223.JPG,sycan_marsh,sycan_marsh_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00225.JPG,sycan_marsh,sycan_marsh_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00226.JPG,sycan_marsh,sycan_marsh_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00228.JPG,sycan_marsh,sycan_marsh_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00230.JPG,sycan_marsh,sycan_marsh_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00232.JPG,sycan_marsh,sycan_marsh_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00234.JPG,sycan_marsh,sycan_marsh_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00236.JPG,sycan_marsh,sycan_marsh_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00237.JPG,sycan_marsh,sycan_marsh_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00239.JPG,sycan_marsh,sycan_marsh_12,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00241.JPG,sycan_marsh,sycan_marsh_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00243.JPG,sycan_marsh,sycan_marsh_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00245.JPG,sycan_marsh,sycan_marsh_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00247.JPG,sycan_marsh,sycan_marsh_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00249.JPG,sycan_marsh,sycan_marsh_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00250.JPG,sycan_marsh,sycan_marsh_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00252.JPG,sycan_marsh,sycan_marsh_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00254.JPG,sycan_marsh,sycan_marsh_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00256.JPG,sycan_marsh,sycan_marsh_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00258.JPG,sycan_marsh,sycan_marsh_13,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00260.JPG,sycan_marsh,sycan_marsh_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00261.JPG,sycan_marsh,sycan_marsh_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00263.JPG,sycan_marsh,sycan_marsh_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00265.JPG,sycan_marsh,sycan_marsh_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00267.JPG,sycan_marsh,sycan_marsh_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00269.JPG,sycan_marsh,sycan_marsh_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00271.JPG,sycan_marsh,sycan_marsh_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00273.JPG,sycan_marsh,sycan_marsh_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00274.JPG,sycan_marsh,sycan_marsh_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00276.JPG,sycan_marsh,sycan_marsh_14,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00278.JPG,sycan_marsh,sycan_marsh_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00280.JPG,sycan_marsh,sycan_marsh_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00282.JPG,sycan_marsh,sycan_marsh_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00284.JPG,sycan_marsh,sycan_marsh_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00285.JPG,sycan_marsh,sycan_marsh_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00287.JPG,sycan_marsh,sycan_marsh_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00289.JPG,sycan_marsh,sycan_marsh_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00291.JPG,sycan_marsh,sycan_marsh_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00293.JPG,sycan_marsh,sycan_marsh_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00295.JPG,sycan_marsh,sycan_marsh_15,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00297.JPG,sycan_marsh,sycan_marsh_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00298.JPG,sycan_marsh,sycan_marsh_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00300.JPG,sycan_marsh,sycan_marsh_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00302.JPG,sycan_marsh,sycan_marsh_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00304.JPG,sycan_marsh,sycan_marsh_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00306.JPG,sycan_marsh,sycan_marsh_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00308.JPG,sycan_marsh,sycan_marsh_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00309.JPG,sycan_marsh,sycan_marsh_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00311.JPG,sycan_marsh,sycan_marsh_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00313.JPG,sycan_marsh,sycan_marsh_16,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00315.JPG,sycan_marsh,sycan_marsh_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00317.JPG,sycan_marsh,sycan_marsh_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00319.JPG,sycan_marsh,sycan_marsh_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00321.JPG,sycan_marsh,sycan_marsh_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00322.JPG,sycan_marsh,sycan_marsh_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00324.JPG,sycan_marsh,sycan_marsh_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00326.JPG,sycan_marsh,sycan_marsh_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00328.JPG,sycan_marsh,sycan_marsh_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00330.JPG,sycan_marsh,sycan_marsh_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00332.JPG,sycan_marsh,sycan_marsh_17,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00333.JPG,sycan_marsh,sycan_marsh_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00335.JPG,sycan_marsh,sycan_marsh_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00337.JPG,sycan_marsh,sycan_marsh_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00339.JPG,sycan_marsh,sycan_marsh_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00341.JPG,sycan_marsh,sycan_marsh_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00343.JPG,sycan_marsh,sycan_marsh_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00345.JPG,sycan_marsh,sycan_marsh_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00346.JPG,sycan_marsh,sycan_marsh_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00348.JPG,sycan_marsh,sycan_marsh_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00350.JPG,sycan_marsh,sycan_marsh_18,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00352.JPG,sycan_marsh,sycan_marsh_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00354.JPG,sycan_marsh,sycan_marsh_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00356.JPG,sycan_marsh,sycan_marsh_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00357.JPG,sycan_marsh,sycan_marsh_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00359.JPG,sycan_marsh,sycan_marsh_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00361.JPG,sycan_marsh,sycan_marsh_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00363.JPG,sycan_marsh,sycan_marsh_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00001.JPG,sycan_marsh,sycan_marsh_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00003.JPG,sycan_marsh,sycan_marsh_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00005.JPG,sycan_marsh,sycan_marsh_19,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00006.JPG,sycan_marsh,sycan_marsh_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00008.JPG,sycan_marsh,sycan_marsh_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00010.JPG,sycan_marsh,sycan_marsh_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00012.JPG,sycan_marsh,sycan_marsh_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00014.JPG,sycan_marsh,sycan_marsh_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00016.JPG,sycan_marsh,sycan_marsh_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00018.JPG,sycan_marsh,sycan_marsh_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00019.JPG,sycan_marsh,sycan_marsh_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00021.JPG,sycan_marsh,sycan_marsh_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00023.JPG,sycan_marsh,sycan_marsh_20,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00025.JPG,sycan_marsh,sycan_marsh_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00027.JPG,sycan_marsh,sycan_marsh_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00029.JPG,sycan_marsh,sycan_marsh_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00030.JPG,sycan_marsh,sycan_marsh_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00032.JPG,sycan_marsh,sycan_marsh_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00034.JPG,sycan_marsh,sycan_marsh_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00036.JPG,sycan_marsh,sycan_marsh_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00038.JPG,sycan_marsh,sycan_marsh_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00040.JPG,sycan_marsh,sycan_marsh_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00042.JPG,sycan_marsh,sycan_marsh_21,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00043.JPG,sycan_marsh,sycan_marsh_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00045.JPG,sycan_marsh,sycan_marsh_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00047.JPG,sycan_marsh,sycan_marsh_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00049.JPG,sycan_marsh,sycan_marsh_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00051.JPG,sycan_marsh,sycan_marsh_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00053.JPG,sycan_marsh,sycan_marsh_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00054.JPG,sycan_marsh,sycan_marsh_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00056.JPG,sycan_marsh,sycan_marsh_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00058.JPG,sycan_marsh,sycan_marsh_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00060.JPG,sycan_marsh,sycan_marsh_22,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00062.JPG,sycan_marsh,sycan_marsh_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00064.JPG,sycan_marsh,sycan_marsh_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00066.JPG,sycan_marsh,sycan_marsh_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00067.JPG,sycan_marsh,sycan_marsh_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00069.JPG,sycan_marsh,sycan_marsh_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00071.JPG,sycan_marsh,sycan_marsh_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00073.JPG,sycan_marsh,sycan_marsh_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00075.JPG,sycan_marsh,sycan_marsh_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00077.JPG,sycan_marsh,sycan_marsh_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00078.JPG,sycan_marsh,sycan_marsh_23,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00080.JPG,sycan_marsh,sycan_marsh_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00082.JPG,sycan_marsh,sycan_marsh_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00084.JPG,sycan_marsh,sycan_marsh_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00086.JPG,sycan_marsh,sycan_marsh_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00088.JPG,sycan_marsh,sycan_marsh_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00090.JPG,sycan_marsh,sycan_marsh_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00091.JPG,sycan_marsh,sycan_marsh_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00093.JPG,sycan_marsh,sycan_marsh_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00095.JPG,sycan_marsh,sycan_marsh_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00097.JPG,sycan_marsh,sycan_marsh_24,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00099.JPG,sycan_marsh,sycan_marsh_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00101.JPG,sycan_marsh,sycan_marsh_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00102.JPG,sycan_marsh,sycan_marsh_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00104.JPG,sycan_marsh,sycan_marsh_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00106.JPG,sycan_marsh,sycan_marsh_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00108.JPG,sycan_marsh,sycan_marsh_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00110.JPG,sycan_marsh,sycan_marsh_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00112.JPG,sycan_marsh,sycan_marsh_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00114.JPG,sycan_marsh,sycan_marsh_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00115.JPG,sycan_marsh,sycan_marsh_25,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00117.JPG,sycan_marsh,sycan_marsh_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00119.JPG,sycan_marsh,sycan_marsh_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00121.JPG,sycan_marsh,sycan_marsh_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00123.JPG,sycan_marsh,sycan_marsh_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00125.JPG,sycan_marsh,sycan_marsh_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00126.JPG,sycan_marsh,sycan_marsh_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00128.JPG,sycan_marsh,sycan_marsh_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00130.JPG,sycan_marsh,sycan_marsh_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00132.JPG,sycan_marsh,sycan_marsh_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00134.JPG,sycan_marsh,sycan_marsh_26,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00136.JPG,sycan_marsh,sycan_marsh_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00138.JPG,sycan_marsh,sycan_marsh_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00139.JPG,sycan_marsh,sycan_marsh_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00141.JPG,sycan_marsh,sycan_marsh_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00143.JPG,sycan_marsh,sycan_marsh_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00145.JPG,sycan_marsh,sycan_marsh_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00147.JPG,sycan_marsh,sycan_marsh_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00149.JPG,sycan_marsh,sycan_marsh_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00150.JPG,sycan_marsh,sycan_marsh_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00152.JPG,sycan_marsh,sycan_marsh_27,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00154.JPG,sycan_marsh,sycan_marsh_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00156.JPG,sycan_marsh,sycan_marsh_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00158.JPG,sycan_marsh,sycan_marsh_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00160.JPG,sycan_marsh,sycan_marsh_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00162.JPG,sycan_marsh,sycan_marsh_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00163.JPG,sycan_marsh,sycan_marsh_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00165.JPG,sycan_marsh,sycan_marsh_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00167.JPG,sycan_marsh,sycan_marsh_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00169.JPG,sycan_marsh,sycan_marsh_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00171.JPG,sycan_marsh,sycan_marsh_28,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00173.JPG,sycan_marsh,sycan_marsh_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00175.JPG,sycan_marsh,sycan_marsh_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00176.JPG,sycan_marsh,sycan_marsh_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00178.JPG,sycan_marsh,sycan_marsh_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00180.JPG,sycan_marsh,sycan_marsh_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00182.JPG,sycan_marsh,sycan_marsh_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00184.JPG,sycan_marsh,sycan_marsh_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00186.JPG,sycan_marsh,sycan_marsh_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00187.JPG,sycan_marsh,sycan_marsh_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00189.JPG,sycan_marsh,sycan_marsh_29,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00191.JPG,sycan_marsh,sycan_marsh_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00193.JPG,sycan_marsh,sycan_marsh_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00195.JPG,sycan_marsh,sycan_marsh_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00197.JPG,sycan_marsh,sycan_marsh_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00199.JPG,sycan_marsh,sycan_marsh_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00200.JPG,sycan_marsh,sycan_marsh_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00202.JPG,sycan_marsh,sycan_marsh_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00204.JPG,sycan_marsh,sycan_marsh_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00206.JPG,sycan_marsh,sycan_marsh_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00208.JPG,sycan_marsh,sycan_marsh_30,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00210.JPG,sycan_marsh,sycan_marsh_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00211.JPG,sycan_marsh,sycan_marsh_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00213.JPG,sycan_marsh,sycan_marsh_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00215.JPG,sycan_marsh,sycan_marsh_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00217.JPG,sycan_marsh,sycan_marsh_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00219.JPG,sycan_marsh,sycan_marsh_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00221.JPG,sycan_marsh,sycan_marsh_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00223.JPG,sycan_marsh,sycan_marsh_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00224.JPG,sycan_marsh,sycan_marsh_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00226.JPG,sycan_marsh,sycan_marsh_31,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00228.JPG,sycan_marsh,sycan_marsh_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00230.JPG,sycan_marsh,sycan_marsh_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00232.JPG,sycan_marsh,sycan_marsh_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00234.JPG,sycan_marsh,sycan_marsh_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00235.JPG,sycan_marsh,sycan_marsh_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00237.JPG,sycan_marsh,sycan_marsh_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00239.JPG,sycan_marsh,sycan_marsh_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00241.JPG,sycan_marsh,sycan_marsh_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00243.JPG,sycan_marsh,sycan_marsh_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00245.JPG,sycan_marsh,sycan_marsh_32,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00247.JPG,sycan_marsh,sycan_marsh_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00248.JPG,sycan_marsh,sycan_marsh_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00250.JPG,sycan_marsh,sycan_marsh_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00252.JPG,sycan_marsh,sycan_marsh_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00254.JPG,sycan_marsh,sycan_marsh_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00256.JPG,sycan_marsh,sycan_marsh_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00258.JPG,sycan_marsh,sycan_marsh_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00001.JPG,sycan_marsh,sycan_marsh_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00003.JPG,sycan_marsh,sycan_marsh_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00005.JPG,sycan_marsh,sycan_marsh_33,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00007.JPG,sycan_marsh,sycan_marsh_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00009.JPG,sycan_marsh,sycan_marsh_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00011.JPG,sycan_marsh,sycan_marsh_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00013.JPG,sycan_marsh,sycan_marsh_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00014.JPG,sycan_marsh,sycan_marsh_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00016.JPG,sycan_marsh,sycan_marsh_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00018.JPG,sycan_marsh,sycan_marsh_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00020.JPG,sycan_marsh,sycan_marsh_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00022.JPG,sycan_marsh,sycan_marsh_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00024.JPG,sycan_marsh,sycan_marsh_34,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00025.JPG,sycan_marsh,sycan_marsh_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00027.JPG,sycan_marsh,sycan_marsh_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00029.JPG,sycan_marsh,sycan_marsh_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00031.JPG,sycan_marsh,sycan_marsh_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00033.JPG,sycan_marsh,sycan_marsh_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00035.JPG,sycan_marsh,sycan_marsh_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00037.JPG,sycan_marsh,sycan_marsh_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00038.JPG,sycan_marsh,sycan_marsh_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00040.JPG,sycan_marsh,sycan_marsh_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00042.JPG,sycan_marsh,sycan_marsh_35,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00044.JPG,sycan_marsh,sycan_marsh_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00046.JPG,sycan_marsh,sycan_marsh_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00048.JPG,sycan_marsh,sycan_marsh_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00050.JPG,sycan_marsh,sycan_marsh_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00051.JPG,sycan_marsh,sycan_marsh_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00053.JPG,sycan_marsh,sycan_marsh_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00055.JPG,sycan_marsh,sycan_marsh_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00057.JPG,sycan_marsh,sycan_marsh_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00059.JPG,sycan_marsh,sycan_marsh_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00061.JPG,sycan_marsh,sycan_marsh_36,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00062.JPG,sycan_marsh,sycan_marsh_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00064.JPG,sycan_marsh,sycan_marsh_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00066.JPG,sycan_marsh,sycan_marsh_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00068.JPG,sycan_marsh,sycan_marsh_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00070.JPG,sycan_marsh,sycan_marsh_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00072.JPG,sycan_marsh,sycan_marsh_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00074.JPG,sycan_marsh,sycan_marsh_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00075.JPG,sycan_marsh,sycan_marsh_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00077.JPG,sycan_marsh,sycan_marsh_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00079.JPG,sycan_marsh,sycan_marsh_37,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00081.JPG,sycan_marsh,sycan_marsh_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00083.JPG,sycan_marsh,sycan_marsh_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00085.JPG,sycan_marsh,sycan_marsh_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00086.JPG,sycan_marsh,sycan_marsh_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00088.JPG,sycan_marsh,sycan_marsh_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00090.JPG,sycan_marsh,sycan_marsh_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00092.JPG,sycan_marsh,sycan_marsh_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00094.JPG,sycan_marsh,sycan_marsh_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00096.JPG,sycan_marsh,sycan_marsh_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00098.JPG,sycan_marsh,sycan_marsh_38,train
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00099.JPG,sycan_marsh,sycan_marsh_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00101.JPG,sycan_marsh,sycan_marsh_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00103.JPG,sycan_marsh,sycan_marsh_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00105.JPG,sycan_marsh,sycan_marsh_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00107.JPG,sycan_marsh,sycan_marsh_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00109.JPG,sycan_marsh,sycan_marsh_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00110.JPG,sycan_marsh,sycan_marsh_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00112.JPG,sycan_marsh,sycan_marsh_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00114.JPG,sycan_marsh,sycan_marsh_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00116.JPG,sycan_marsh,sycan_marsh_39,val
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00001.JPG,willamette,willamette_0,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00006.JPG,willamette,willamette_0,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00010.JPG,willamette,willamette_0,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00015.JPG,willamette,willamette_0,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00019.JPG,willamette,willamette_0,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00024.JPG,willamette,willamette_0,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00028.JPG,willamette,willamette_0,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00033.JPG,willamette,willamette_0,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00037.JPG,willamette,willamette_0,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00042.JPG,willamette,willamette_0,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00047.JPG,willamette,willamette_1,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00051.JPG,willamette,willamette_1,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00056.JPG,willamette,willamette_1,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00060.JPG,willamette,willamette_1,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00065.JPG,willamette,willamette_1,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00069.JPG,willamette,willamette_1,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00074.JPG,willamette,willamette_1,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00078.JPG,willamette,willamette_1,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00083.JPG,willamette,willamette_1,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00088.JPG,willamette,willamette_1,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00092.JPG,willamette,willamette_2,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00097.JPG,willamette,willamette_2,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00101.JPG,willamette,willamette_2,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00106.JPG,willamette,willamette_2,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00110.JPG,willamette,willamette_2,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00115.JPG,willamette,willamette_2,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00119.JPG,willamette,willamette_2,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00124.JPG,willamette,willamette_2,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00129.JPG,willamette,willamette_2,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00133.JPG,willamette,willamette_2,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00138.JPG,willamette,willamette_3,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00142.JPG,willamette,willamette_3,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00147.JPG,willamette,willamette_3,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00151.JPG,willamette,willamette_3,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00156.JPG,willamette,willamette_3,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00160.JPG,willamette,willamette_3,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00165.JPG,willamette,willamette_3,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00170.JPG,willamette,willamette_3,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00174.JPG,willamette,willamette_3,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00179.JPG,willamette,willamette_3,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00183.JPG,willamette,willamette_4,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00188.JPG,willamette,willamette_4,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00192.JPG,willamette,willamette_4,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00197.JPG,willamette,willamette_4,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00201.JPG,willamette,willamette_4,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00206.JPG,willamette,willamette_4,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00211.JPG,willamette,willamette_4,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00215.JPG,willamette,willamette_4,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00220.JPG,willamette,willamette_4,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00224.JPG,willamette,willamette_4,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Hay Pasture/Images/Fire/RGB/Corrected FOV/00229.JPG,willamette,willamette_5,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00001.JPG,willamette,willamette_5,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00006.JPG,willamette,willamette_5,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00010.JPG,willamette,willamette_5,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00015.JPG,willamette,willamette_5,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00020.JPG,willamette,willamette_5,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00024.JPG,willamette,willamette_5,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00029.JPG,willamette,willamette_5,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00033.JPG,willamette,willamette_5,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00038.JPG,willamette,willamette_5,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00042.JPG,willamette,willamette_6,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00047.JPG,willamette,willamette_6,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00051.JPG,willamette,willamette_6,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00056.JPG,willamette,willamette_6,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00061.JPG,willamette,willamette_6,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00065.JPG,willamette,willamette_6,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00070.JPG,willamette,willamette_6,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00074.JPG,willamette,willamette_6,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00079.JPG,willamette,willamette_6,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00083.JPG,willamette,willamette_6,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00088.JPG,willamette,willamette_7,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00093.JPG,willamette,willamette_7,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Office Unit Pre-Burn/Images/No Fire/RGB/Corrected FOV/00097.JPG,willamette,willamette_7,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00003.JPG,willamette,willamette_7,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00007.JPG,willamette,willamette_7,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00012.JPG,willamette,willamette_7,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00016.JPG,willamette,willamette_7,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00021.JPG,willamette,willamette_7,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00025.JPG,willamette,willamette_7,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00030.JPG,willamette,willamette_7,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00035.JPG,willamette,willamette_8,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00039.JPG,willamette,willamette_8,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00044.JPG,willamette,willamette_8,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00048.JPG,willamette,willamette_8,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00053.JPG,willamette,willamette_8,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00057.JPG,willamette,willamette_8,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00062.JPG,willamette,willamette_8,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00066.JPG,willamette,willamette_8,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00071.JPG,willamette,willamette_8,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00076.JPG,willamette,willamette_8,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00080.JPG,willamette,willamette_9,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00085.JPG,willamette,willamette_9,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00089.JPG,willamette,willamette_9,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00094.JPG,willamette,willamette_9,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00098.JPG,willamette,willamette_9,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00103.JPG,willamette,willamette_9,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00107.JPG,willamette,willamette_9,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00112.JPG,willamette,willamette_9,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00117.JPG,willamette,willamette_9,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00121.JPG,willamette,willamette_9,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00126.JPG,willamette,willamette_10,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00130.JPG,willamette,willamette_10,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00135.JPG,willamette,willamette_10,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00139.JPG,willamette,willamette_10,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00144.JPG,willamette,willamette_10,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00148.JPG,willamette,willamette_10,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00153.JPG,willamette,willamette_10,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00158.JPG,willamette,willamette_10,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00162.JPG,willamette,willamette_10,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00167.JPG,willamette,willamette_10,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00171.JPG,willamette,willamette_11,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00176.JPG,willamette,willamette_11,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00180.JPG,willamette,willamette_11,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00185.JPG,willamette,willamette_11,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00189.JPG,willamette,willamette_11,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00194.JPG,willamette,willamette_11,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00199.JPG,willamette,willamette_11,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00203.JPG,willamette,willamette_11,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00208.JPG,willamette,willamette_11,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00212.JPG,willamette,willamette_11,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00217.JPG,willamette,willamette_12,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00221.JPG,willamette,willamette_12,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00226.JPG,willamette,willamette_12,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00230.JPG,willamette,willamette_12,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00235.JPG,willamette,willamette_12,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00240.JPG,willamette,willamette_12,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00244.JPG,willamette,willamette_12,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00249.JPG,willamette,willamette_12,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00253.JPG,willamette,willamette_12,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00258.JPG,willamette,willamette_12,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00262.JPG,willamette,willamette_13,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00267.JPG,willamette,willamette_13,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00271.JPG,willamette,willamette_13,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00276.JPG,willamette,willamette_13,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00281.JPG,willamette,willamette_13,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00285.JPG,willamette,willamette_13,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00290.JPG,willamette,willamette_13,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00294.JPG,willamette,willamette_13,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00299.JPG,willamette,willamette_13,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00303.JPG,willamette,willamette_13,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00308.JPG,willamette,willamette_14,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00312.JPG,willamette,willamette_14,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00317.JPG,willamette,willamette_14,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00322.JPG,willamette,willamette_14,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00326.JPG,willamette,willamette_14,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00331.JPG,willamette,willamette_14,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00335.JPG,willamette,willamette_14,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00340.JPG,willamette,willamette_14,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00344.JPG,willamette,willamette_14,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00349.JPG,willamette,willamette_14,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00353.JPG,willamette,willamette_15,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00358.JPG,willamette,willamette_15,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00363.JPG,willamette,willamette_15,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00367.JPG,willamette,willamette_15,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00372.JPG,willamette,willamette_15,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00376.JPG,willamette,willamette_15,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00381.JPG,willamette,willamette_15,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00385.JPG,willamette,willamette_15,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00390.JPG,willamette,willamette_15,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00394.JPG,willamette,willamette_15,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00399.JPG,willamette,willamette_16,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00404.JPG,willamette,willamette_16,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00408.JPG,willamette,willamette_16,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00413.JPG,willamette,willamette_16,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00417.JPG,willamette,willamette_16,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00422.JPG,willamette,willamette_16,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00426.JPG,willamette,willamette_16,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00431.JPG,willamette,willamette_16,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00435.JPG,willamette,willamette_16,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00440.JPG,willamette,willamette_16,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00445.JPG,willamette,willamette_17,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00449.JPG,willamette,willamette_17,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00454.JPG,willamette,willamette_17,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00458.JPG,willamette,willamette_17,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00463.JPG,willamette,willamette_17,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00467.JPG,willamette,willamette_17,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00472.JPG,willamette,willamette_17,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00476.JPG,willamette,willamette_17,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00481.JPG,willamette,willamette_17,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00486.JPG,willamette,willamette_17,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00490.JPG,willamette,willamette_18,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00495.JPG,willamette,willamette_18,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00499.JPG,willamette,willamette_18,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00504.JPG,willamette,willamette_18,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00508.JPG,willamette,willamette_18,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00513.JPG,willamette,willamette_18,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00517.JPG,willamette,willamette_18,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00522.JPG,willamette,willamette_18,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00527.JPG,willamette,willamette_18,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00531.JPG,willamette,willamette_18,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00536.JPG,willamette,willamette_19,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00540.JPG,willamette,willamette_19,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00545.JPG,willamette,willamette_19,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00549.JPG,willamette,willamette_19,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00554.JPG,willamette,willamette_19,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00558.JPG,willamette,willamette_19,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00563.JPG,willamette,willamette_19,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00568.JPG,willamette,willamette_19,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00572.JPG,willamette,willamette_19,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00577.JPG,willamette,willamette_19,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00581.JPG,willamette,willamette_20,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00586.JPG,willamette,willamette_20,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00590.JPG,willamette,willamette_20,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00595.JPG,willamette,willamette_20,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00600.JPG,willamette,willamette_20,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00604.JPG,willamette,willamette_20,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00609.JPG,willamette,willamette_20,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00613.JPG,willamette,willamette_20,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00618.JPG,willamette,willamette_20,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00622.JPG,willamette,willamette_20,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00627.JPG,willamette,willamette_21,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00631.JPG,willamette,willamette_21,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00636.JPG,willamette,willamette_21,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00641.JPG,willamette,willamette_21,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00645.JPG,willamette,willamette_21,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00650.JPG,willamette,willamette_21,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00654.JPG,willamette,willamette_21,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00659.JPG,willamette,willamette_21,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00663.JPG,willamette,willamette_21,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00668.JPG,willamette,willamette_21,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00672.JPG,willamette,willamette_22,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00677.JPG,willamette,willamette_22,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00682.JPG,willamette,willamette_22,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00686.JPG,willamette,willamette_22,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00691.JPG,willamette,willamette_22,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00695.JPG,willamette,willamette_22,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00700.JPG,willamette,willamette_22,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00704.JPG,willamette,willamette_22,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00709.JPG,willamette,willamette_22,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00713.JPG,willamette,willamette_22,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00718.JPG,willamette,willamette_23,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00723.JPG,willamette,willamette_23,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00727.JPG,willamette,willamette_23,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00732.JPG,willamette,willamette_23,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00736.JPG,willamette,willamette_23,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00741.JPG,willamette,willamette_23,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00745.JPG,willamette,willamette_23,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00750.JPG,willamette,willamette_23,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00754.JPG,willamette,willamette_23,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00759.JPG,willamette,willamette_23,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00764.JPG,willamette,willamette_24,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00768.JPG,willamette,willamette_24,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00773.JPG,willamette,willamette_24,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00777.JPG,willamette,willamette_24,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00782.JPG,willamette,willamette_24,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00786.JPG,willamette,willamette_24,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00791.JPG,willamette,willamette_24,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00795.JPG,willamette,willamette_24,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00800.JPG,willamette,willamette_24,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00805.JPG,willamette,willamette_24,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00809.JPG,willamette,willamette_25,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00814.JPG,willamette,willamette_25,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00818.JPG,willamette,willamette_25,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00823.JPG,willamette,willamette_25,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00827.JPG,willamette,willamette_25,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00832.JPG,willamette,willamette_25,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00836.JPG,willamette,willamette_25,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00841.JPG,willamette,willamette_25,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00846.JPG,willamette,willamette_25,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00850.JPG,willamette,willamette_25,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00855.JPG,willamette,willamette_26,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00859.JPG,willamette,willamette_26,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00864.JPG,willamette,willamette_26,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00868.JPG,willamette,willamette_26,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00873.JPG,willamette,willamette_26,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00877.JPG,willamette,willamette_26,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00882.JPG,willamette,willamette_26,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00887.JPG,willamette,willamette_26,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00891.JPG,willamette,willamette_26,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00896.JPG,willamette,willamette_26,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00900.JPG,willamette,willamette_27,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00905.JPG,willamette,willamette_27,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00909.JPG,willamette,willamette_27,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00914.JPG,willamette,willamette_27,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00918.JPG,willamette,willamette_27,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00923.JPG,willamette,willamette_27,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00928.JPG,willamette,willamette_27,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00932.JPG,willamette,willamette_27,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00937.JPG,willamette,willamette_27,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00941.JPG,willamette,willamette_27,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00946.JPG,willamette,willamette_28,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00950.JPG,willamette,willamette_28,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00955.JPG,willamette,willamette_28,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00959.JPG,willamette,willamette_28,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00964.JPG,willamette,willamette_28,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00969.JPG,willamette,willamette_28,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00973.JPG,willamette,willamette_28,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00978.JPG,willamette,willamette_28,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00982.JPG,willamette,willamette_28,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00987.JPG,willamette,willamette_28,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00991.JPG,willamette,willamette_29,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/00996.JPG,willamette,willamette_29,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01000.JPG,willamette,willamette_29,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01005.JPG,willamette,willamette_29,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01010.JPG,willamette,willamette_29,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01014.JPG,willamette,willamette_29,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01019.JPG,willamette,willamette_29,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01023.JPG,willamette,willamette_29,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01028.JPG,willamette,willamette_29,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01032.JPG,willamette,willamette_29,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01037.JPG,willamette,willamette_30,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01041.JPG,willamette,willamette_30,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01046.JPG,willamette,willamette_30,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01051.JPG,willamette,willamette_30,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01055.JPG,willamette,willamette_30,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01060.JPG,willamette,willamette_30,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01064.JPG,willamette,willamette_30,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01069.JPG,willamette,willamette_30,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01073.JPG,willamette,willamette_30,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01078.JPG,willamette,willamette_30,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01082.JPG,willamette,willamette_31,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01087.JPG,willamette,willamette_31,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01092.JPG,willamette,willamette_31,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01096.JPG,willamette,willamette_31,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01101.JPG,willamette,willamette_31,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01105.JPG,willamette,willamette_31,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01110.JPG,willamette,willamette_31,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01114.JPG,willamette,willamette_31,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01119.JPG,willamette,willamette_31,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01123.JPG,willamette,willamette_31,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01128.JPG,willamette,willamette_32,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01133.JPG,willamette,willamette_32,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01137.JPG,willamette,willamette_32,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01142.JPG,willamette,willamette_32,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01146.JPG,willamette,willamette_32,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01151.JPG,willamette,willamette_32,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01155.JPG,willamette,willamette_32,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01160.JPG,willamette,willamette_32,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01164.JPG,willamette,willamette_32,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01169.JPG,willamette,willamette_32,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01174.JPG,willamette,willamette_33,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01178.JPG,willamette,willamette_33,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01183.JPG,willamette,willamette_33,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01187.JPG,willamette,willamette_33,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01192.JPG,willamette,willamette_33,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01196.JPG,willamette,willamette_33,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01201.JPG,willamette,willamette_33,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01206.JPG,willamette,willamette_33,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01210.JPG,willamette,willamette_33,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01215.JPG,willamette,willamette_33,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01219.JPG,willamette,willamette_34,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01224.JPG,willamette,willamette_34,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01228.JPG,willamette,willamette_34,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01233.JPG,willamette,willamette_34,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01237.JPG,willamette,willamette_34,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01242.JPG,willamette,willamette_34,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01247.JPG,willamette,willamette_34,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01251.JPG,willamette,willamette_34,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01256.JPG,willamette,willamette_34,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01260.JPG,willamette,willamette_34,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01265.JPG,willamette,willamette_35,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01269.JPG,willamette,willamette_35,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01274.JPG,willamette,willamette_35,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01278.JPG,willamette,willamette_35,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01283.JPG,willamette,willamette_35,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01288.JPG,willamette,willamette_35,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01292.JPG,willamette,willamette_35,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01297.JPG,willamette,willamette_35,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01301.JPG,willamette,willamette_35,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01306.JPG,willamette,willamette_35,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01310.JPG,willamette,willamette_36,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01315.JPG,willamette,willamette_36,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01319.JPG,willamette,willamette_36,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01324.JPG,willamette,willamette_36,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01329.JPG,willamette,willamette_36,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01333.JPG,willamette,willamette_36,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01338.JPG,willamette,willamette_36,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01342.JPG,willamette,willamette_36,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01347.JPG,willamette,willamette_36,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01351.JPG,willamette,willamette_36,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01356.JPG,willamette,willamette_37,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01360.JPG,willamette,willamette_37,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01365.JPG,willamette,willamette_37,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01370.JPG,willamette,willamette_37,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01374.JPG,willamette,willamette_37,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01379.JPG,willamette,willamette_37,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01383.JPG,willamette,willamette_37,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01388.JPG,willamette,willamette_37,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01392.JPG,willamette,willamette_37,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01397.JPG,willamette,willamette_37,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01401.JPG,willamette,willamette_38,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01406.JPG,willamette,willamette_38,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01411.JPG,willamette,willamette_38,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01415.JPG,willamette,willamette_38,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01420.JPG,willamette,willamette_38,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01424.JPG,willamette,willamette_38,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01429.JPG,willamette,willamette_38,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01433.JPG,willamette,willamette_38,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01438.JPG,willamette,willamette_38,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01442.JPG,willamette,willamette_38,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01447.JPG,willamette,willamette_39,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01452.JPG,willamette,willamette_39,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01456.JPG,willamette,willamette_39,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01461.JPG,willamette,willamette_39,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01465.JPG,willamette,willamette_39,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01470.JPG,willamette,willamette_39,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01474.JPG,willamette,willamette_39,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01479.JPG,willamette,willamette_39,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01483.JPG,willamette,willamette_39,test
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Wilamette/Rathbone Double Unit/Images/Fire/RGB/Corrected FOV/01488.JPG,willamette,willamette_39,test

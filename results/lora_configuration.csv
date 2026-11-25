@@ -1,0 +1,2 @@
+model,total_parameters,trainable_parameters,frozen_parameters,trainable_percentage,target_modules,rank,alpha,dropout,vision_encoder_frozen,gradient_checkpointing,gpu_memory_gb
+Qwen/Qwen3-VL-2B-Instruct,2133954560,6422528,2127532032,0.3009683580141463,112,16,32,0.05,True,True,4.47

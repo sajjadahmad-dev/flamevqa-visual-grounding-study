@@ -1,0 +1,33 @@
+method_a,method_b,qtype,n_questions,n_blocks,accuracy_a,accuracy_b,difference_pp,ci_lower,ci_upper,improved_answers,worsened_answers,unchanged_correctness,ci_excludes_zero,comparison
+M0+temp,M0-zeroshot,Overall,240,8,28.749999999999996,21.25,7.5,0.4166666666666667,17.083333333333332,19,1,220,True,Temperature augmentation
+M0+temp,M0-zeroshot,DS4,80,8,45.0,22.5,22.5,1.25,51.24999999999999,19,1,60,True,Temperature augmentation
+M0+temp,M0-zeroshot,DS6,80,8,37.5,37.5,0.0,0.0,0.0,0,0,80,False,Temperature augmentation
+M0+temp,M0-zeroshot,LD3,80,8,3.75,3.75,0.0,0.0,0.0,0,0,80,False,Temperature augmentation
+M3-zeroshot+hint,M0-zeroshot,Overall,240,8,52.5,21.25,31.25,14.583333333333334,45.0,85,10,145,True,Prediction hints
+M3-zeroshot+hint,M0-zeroshot,DS4,80,8,75.0,22.5,52.5,20.0,81.25,49,7,24,True,Prediction hints
+M3-zeroshot+hint,M0-zeroshot,DS6,80,8,78.75,37.5,41.25,12.5,67.5,36,3,41,True,Prediction hints
+M3-zeroshot+hint,M0-zeroshot,LD3,80,8,3.75,3.75,0.0,0.0,0.0,0,0,80,False,Prediction hints
+M0-zeroshot,M0-blank,Overall,240,8,21.25,28.333333333333332,-7.083333333333333,-34.166666666666664,15.416666666666668,25,42,173,False,M0 visual information
+M0-zeroshot,M0-blank,DS4,80,8,22.5,35.0,-12.5,-48.75,21.25,11,21,48,False,M0 visual information
+M0-zeroshot,M0-blank,DS6,80,8,37.5,25.0,12.5,-2.5,38.75,11,1,68,False,M0 visual information
+M0-zeroshot,M0-blank,LD3,80,8,3.75,25.0,-21.25,-58.75,6.25,3,20,57,False,M0 visual information
+M2-LoRA,M2-blank,Overall,240,8,78.33333333333333,26.666666666666668,51.66666666666667,43.333333333333336,58.760416666666515,132,8,100,True,M2 visual information
+M2-LoRA,M2-blank,DS4,80,8,68.75,35.0,33.75,7.5,56.25,32,5,43,True,M2 visual information
+M2-LoRA,M2-blank,DS6,80,8,85.0,20.0,65.0,46.25,85.0,55,3,22,True,M2 visual information
+M2-LoRA,M2-blank,LD3,80,8,81.25,25.0,56.25,30.0,80.0,45,0,35,True,M2 visual information
+M0-zeroshot,M0-shuffled,Overall,240,8,21.25,9.166666666666666,12.083333333333334,3.3333333333333335,22.083333333333332,29,0,211,True,M0 correct image matching
+M0-zeroshot,M0-shuffled,DS4,80,8,22.5,12.5,10.0,1.25,25.0,8,0,72,True,M0 correct image matching
+M0-zeroshot,M0-shuffled,DS6,80,8,37.5,13.750000000000002,23.75,0.0,57.531249999999545,19,0,61,False,M0 correct image matching
+M0-zeroshot,M0-shuffled,LD3,80,8,3.75,1.25,2.5,0.0,7.5,2,0,78,False,M0 correct image matching
+M2-LoRA,M2-shuffled,Overall,240,8,78.33333333333333,8.333333333333332,70.0,54.166666666666664,85.41666666666666,172,4,64,True,M2 correct image matching
+M2-LoRA,M2-shuffled,DS4,80,8,68.75,8.75,60.0,45.0,78.75,51,3,26,True,M2 correct image matching
+M2-LoRA,M2-shuffled,DS6,80,8,85.0,5.0,80.0,66.25,92.5,64,0,16,True,M2 correct image matching
+M2-LoRA,M2-shuffled,LD3,80,8,81.25,11.25,70.0,42.5,92.5,57,1,22,True,M2 correct image matching
+M0-shuffled-options,M0-zeroshot,Overall,240,8,23.75,21.25,2.5,-1.25,6.25,10,4,226,False,M0 option-order change
+M0-shuffled-options,M0-zeroshot,DS4,80,8,33.75,22.5,11.25,5.0,17.5,9,0,71,True,M0 option-order change
+M0-shuffled-options,M0-zeroshot,DS6,80,8,32.5,37.5,-5.0,-12.5,0.0,0,4,76,False,M0 option-order change
+M0-shuffled-options,M0-zeroshot,LD3,80,8,5.0,3.75,1.25,0.0,3.75,1,0,79,False,M0 option-order change
+M2-shuffled-options,M2-LoRA,Overall,240,8,79.16666666666666,78.33333333333333,0.8333333333333334,-3.75,4.583333333333333,9,7,224,False,M2 option-order change
+M2-shuffled-options,M2-LoRA,DS4,80,8,75.0,68.75,6.25,-2.5,15.0,8,3,69,False,M2 option-order change
+M2-shuffled-options,M2-LoRA,DS6,80,8,81.25,85.0,-3.75,-11.25,0.0,1,4,75,False,M2 option-order change
+M2-shuffled-options,M2-LoRA,LD3,80,8,81.25,81.25,0.0,0.0,0.0,0,0,80,False,M2 option-order change

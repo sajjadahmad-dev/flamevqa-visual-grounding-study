@@ -1,0 +1,13 @@
+method_a,method_b,qtype,n_questions,n_blocks,accuracy_a,accuracy_b,difference_pp,ci_lower,ci_upper,improved_answers,worsened_answers,unchanged_correctness,ci_excludes_zero
+M2-LoRA,M1-dinov2-LR,Overall,240,8,78.33333333333333,77.91666666666667,0.4166666666666667,-5.833333333333333,8.333333333333332,18,17,205,False
+M2-LoRA,M1-dinov2-LR,DS4,80,8,68.75,75.0,-6.25,-16.25,6.25,5,10,65,False
+M2-LoRA,M1-dinov2-LR,DS6,80,8,85.0,78.75,6.25,-3.75,17.5,10,5,65,False
+M2-LoRA,M1-dinov2-LR,LD3,80,8,81.25,80.0,1.25,-5.0,7.5,3,2,75,False
+M2-LoRA,M1-clip-LR,Overall,240,8,78.33333333333333,77.5,0.8333333333333334,-5.416666666666667,10.0,17,15,208,False
+M2-LoRA,M1-clip-LR,DS4,80,8,68.75,73.75,-5.0,-17.5,7.5,7,11,62,False
+M2-LoRA,M1-clip-LR,DS6,80,8,85.0,76.25,8.75,-1.25,22.5,9,2,69,False
+M2-LoRA,M1-clip-LR,LD3,80,8,81.25,82.5,-1.25,-5.0,2.5,1,2,77,False
+M2-LoRA,M1-dinov2-Ridge,DS4,80,8,68.75,71.25,-2.5,-17.5,12.5,9,11,60,False
+M2-LoRA,M1-dinov2-Ridge,DS6,80,8,85.0,75.0,10.0,-1.25,20.0,13,5,62,False
+M2-LoRA,M1-clip-Ridge,DS4,80,8,68.75,67.5,1.25,-15.0,17.5,11,10,59,False
+M2-LoRA,M1-clip-Ridge,DS6,80,8,85.0,77.5,7.5,-5.0,22.5,9,3,68,False

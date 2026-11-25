@@ -1,0 +1,5 @@
+method_a,method_b,qtype,n_questions,n_blocks,accuracy_a,accuracy_b,difference_pp,ci_lower,ci_upper,improved_answers,worsened_answers,unchanged_correctness,ci_excludes_zero
+M2-LoRA,M0-zeroshot,Overall,240,8,78.33333333333333,21.25,57.08333333333333,44.583333333333336,67.5,148,11,81,True
+M2-LoRA,M0-zeroshot,DS4,80,8,68.75,22.5,46.25,15.0,75.0,46,9,25,True
+M2-LoRA,M0-zeroshot,DS6,80,8,85.0,37.5,47.5,21.25,72.5,38,0,42,True
+M2-LoRA,M0-zeroshot,LD3,80,8,81.25,3.75,77.5,63.71875000000002,91.25,64,2,14,True

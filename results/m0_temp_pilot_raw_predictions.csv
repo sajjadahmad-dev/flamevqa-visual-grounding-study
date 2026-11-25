@@ -1,0 +1,241 @@
+frame,qtype,gold,pred,raw
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00075.JPG,DS4,>50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00075.JPG,DS6,75-100%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00075.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00077.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00077.JPG,DS6,50-75%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00077.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00079.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00079.JPG,DS6,50-75%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00079.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00080.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00080.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00080.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00082.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00082.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00082.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00084.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00084.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00084.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00086.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00086.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00086.JPG,LD3,Spread equally,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00088.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00088.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00088.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00090.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00090.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00090.JPG,LD3,Center,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00092.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00092.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00092.JPG,LD3,Center,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00167.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00167.JPG,DS6,75-100%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00167.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00169.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00169.JPG,DS6,75-100%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00169.JPG,LD3,Spread equally,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00171.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00171.JPG,DS6,75-100%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00171.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00173.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00173.JPG,DS6,75-100%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00173.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00175.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00175.JPG,DS6,75-100%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00175.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00176.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00176.JPG,DS6,75-100%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00176.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00178.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00178.JPG,DS6,75-100%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00178.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00180.JPG,DS4,>50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00180.JPG,DS6,75-100%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00180.JPG,LD3,Spread equally,Bottom-left,Bottom-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00182.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00182.JPG,DS6,75-100%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00182.JPG,LD3,Spread equally,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00184.JPG,DS4,>50%,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00184.JPG,DS6,75-100%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00184.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00260.JPG,DS4,>50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00260.JPG,DS6,50-75%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00260.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00261.JPG,DS4,>50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00261.JPG,DS6,50-75%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00261.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00263.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00263.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00263.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00265.JPG,DS4,>50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00265.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00265.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00267.JPG,DS4,>50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00267.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00267.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00269.JPG,DS4,>50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00269.JPG,DS6,50-75%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00269.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00271.JPG,DS4,>50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00271.JPG,DS6,50-75%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00271.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00273.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00273.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00273.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00274.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00274.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00274.JPG,LD3,Top-right,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00276.JPG,DS4,>50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00276.JPG,DS6,50-75%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00276.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00352.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00352.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00352.JPG,LD3,Bottom-left,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00354.JPG,DS4,>50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00354.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00354.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00356.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00356.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00356.JPG,LD3,Bottom-right,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00357.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00357.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00357.JPG,LD3,Spread equally,Bottom-left,Bottom-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00359.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00359.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00359.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00361.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00361.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00361.JPG,LD3,Spread equally,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00363.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00363.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2A/Images/Fire/RGB/Corrected FOV/00363.JPG,LD3,Bottom-right,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00001.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00001.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00001.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00003.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00003.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00003.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00005.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00005.JPG,DS6,1-25%,50-75%,50-75%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00005.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00080.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00080.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00080.JPG,LD3,Bottom-right,Bottom-right,Bottom-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00082.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00082.JPG,DS6,1-25%,50-75%,50-75%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00082.JPG,LD3,Top-left,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00084.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00084.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00084.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00086.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00086.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00086.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00088.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00088.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00088.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00090.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00090.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00090.JPG,LD3,Top-right,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00091.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00091.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00091.JPG,LD3,Top-right,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00093.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00093.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00093.JPG,LD3,Center,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00095.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00095.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00095.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00097.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00097.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00097.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00173.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00173.JPG,DS6,50-75%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00173.JPG,LD3,Top-left,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00175.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00175.JPG,DS6,50-75%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00175.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00176.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00176.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00176.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00178.JPG,DS4,25-50%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00178.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00178.JPG,LD3,Center,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00180.JPG,DS4,1-25%,25-50%,>25-50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00180.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00180.JPG,LD3,Center,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00182.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00182.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00182.JPG,LD3,Center,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00184.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00184.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00184.JPG,LD3,Center,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00186.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00186.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00186.JPG,LD3,Center,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00187.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00187.JPG,DS6,1-25%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00187.JPG,LD3,Center,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00189.JPG,DS4,1-25%,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00189.JPG,DS6,25-50%,75-100%,75-100%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/Fire/RGB/Corrected FOV/00189.JPG,LD3,Center,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00007.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00007.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00007.JPG,LD3,No smoke visible,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00009.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00009.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00009.JPG,LD3,No smoke visible,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00011.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00011.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00011.JPG,LD3,No smoke visible,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00013.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00013.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00013.JPG,LD3,No smoke visible,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00014.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00014.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00014.JPG,LD3,No smoke visible,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00016.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00016.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00016.JPG,LD3,No smoke visible,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00018.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00018.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00018.JPG,LD3,No smoke visible,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00020.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00020.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00020.JPG,LD3,No smoke visible,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00022.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00022.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00022.JPG,LD3,No smoke visible,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00024.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00024.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00024.JPG,LD3,No smoke visible,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00099.JPG,DS4,None,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00099.JPG,DS6,No smoke,50-75%,50-75%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00099.JPG,LD3,No smoke visible,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00101.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00101.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00101.JPG,LD3,No smoke visible,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00103.JPG,DS4,None,>50%,>50%
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00103.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00103.JPG,LD3,No smoke visible,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00105.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00105.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00105.JPG,LD3,No smoke visible,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00107.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00107.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00107.JPG,LD3,No smoke visible,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00109.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00109.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00109.JPG,LD3,No smoke visible,Top-right,Top-right
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00110.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00110.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00110.JPG,LD3,No smoke visible,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00112.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00112.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00112.JPG,LD3,No smoke visible,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00114.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00114.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00114.JPG,LD3,No smoke visible,Top-left,Top-left
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00116.JPG,DS4,None,None,None
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00116.JPG,DS6,No smoke,No smoke,No smoke
+/home/mhabibp/Downloads/flame3333/Flame 3 Computer Vision Sets/Sycan/Sycan 2D/Images/No Fire/RGB/Corrected FOV/00116.JPG,LD3,No smoke visible,Top-left,Top-left

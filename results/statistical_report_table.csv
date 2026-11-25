@@ -1,0 +1,12 @@
+Comparison,Difference (pp),95% CI
+LoRA vs Zero-shot,+57.08,"[44.58, 67.50]"
+LoRA vs M1-dinov2-LR,+0.42,"[-5.83, 8.33]"
+LoRA vs M1-clip-LR,+0.83,"[-5.42, 10.00]"
+Temperature augmentation,+7.50,"[0.42, 17.08]"
+Prediction hints,+31.25,"[14.58, 45.00]"
+M0 visual information,-7.08,"[-34.17, 15.42]"
+M2 visual information,+51.67,"[43.33, 58.76]"
+M0 correct image matching,+12.08,"[3.33, 22.08]"
+M2 correct image matching,+70.00,"[54.17, 85.42]"
+M0 option-order change,+2.50,"[-1.25, 6.25]"
+M2 option-order change,+0.83,"[-3.75, 4.58]"
