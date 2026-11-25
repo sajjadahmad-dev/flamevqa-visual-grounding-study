@@ -220,22 +220,6 @@ Current limitations include:
 
 Future work will investigate cross-site generalization, class-balanced learning, repeated robustness experiments, and more comprehensive RGB-thermal integration.
 
-## Repository Structure
-
-```text
-flamevqa-visual-grounding-study/
-├── README.md
-├── notebooks/
-│   └── FLAMEVQA_Visual_Grounding_Study.ipynb
-├── results/
-│   ├── main_table.csv
-│   ├── classification_metrics.csv
-│   ├── per_class_metrics.csv
-│   ├── robustness_summary.csv
-│   └── paired_statistical_summary.csv
-└── figures/
-```
-
 ## Acknowledgments
 
 This study was conducted as an independent research investigation following discussions with researchers at Clemson University.
